@@ -23,7 +23,7 @@
 Вот [GitHub Classroom](https://github.com/math-for-ling/laboratory-work-2-mininamaria).
 
 
-## Лабораторная работа №3: Regular Conversations
+## Лабораторная работа №3: Stacking Binary
 
 **Задания:** (останется что-то одно)
 
